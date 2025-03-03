@@ -121,12 +121,6 @@ class Main extends Sprite
 		#if LUA_ALLOWED llua.Lua.set_callbacks_function(cpp.Callable.fromStaticFunction(psychlua.CallbackHandler.call)); #end
 		Controls.instance = new Controls();
 		ClientPrefs.loadDefaultKeys();
-		
-        #if mobile
-	    #if android
-    	    if (!FileSystem.exists(AndroidEnvironment.getExternalStorageDirectory() + '/.' + Application.current.meta.get('file')))
-    	        FileSystem.createDirectory(AndroidEnvironment.getExternalStorageDirectory() + '/.' + Application.current.meta.get('file'));		    		
-	    #end
     	
 		#if ACHIEVEMENTS_ALLOWED Achievements.load(); #end
 
