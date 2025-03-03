@@ -71,11 +71,7 @@ class Main extends Sprite
 	public function new()
 	{
 		super();
-		#if android
-		SUtil.doPermissionsShit();
-	        #end
-		mobile.backend.CrashHandler.init();
-
+		
 		#if windows
 		@:functionCode("
 		#include <windows.h>
@@ -131,8 +127,7 @@ class Main extends Sprite
     	    if (!FileSystem.exists(AndroidEnvironment.getExternalStorageDirectory() + '/.' + Application.current.meta.get('file')))
     	        FileSystem.createDirectory(AndroidEnvironment.getExternalStorageDirectory() + '/.' + Application.current.meta.get('file'));		    		
 	    #end
-    	    Sys.setCwd(SUtil.getStorageDirectory());			
-        #end
+    	
 		#if ACHIEVEMENTS_ALLOWED Achievements.load(); #end
 
 		addChild(new FlxGame(#if (openfl >= "9.2.0") 1280, 720 #else game.width, game.height #end, game.initialState, #if (flixel < "5.0.0") game.zoom, #end game.framerate, game.framerate, game.skipSplash, game.startFullscreen));

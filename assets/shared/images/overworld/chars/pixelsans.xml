@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pixelsans.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="DownWalk00000" x="0" y="0" width="31" height="34"/>
+	<SubTexture name="DownWalk00001" x="31" y="0" width="31" height="34"/>
+	<SubTexture name="DownWalk00002" x="0" y="0" width="31" height="34"/>
+	<SubTexture name="DownWalk00003" x="62" y="0" width="31" height="34"/>
+	<SubTexture name="LeftWalk00000" x="93" y="0" width="31" height="34"/>
+	<SubTexture name="LeftWalk00001" x="0" y="34" width="31" height="34"/>
+	<SubTexture name="LeftWalk00002" x="93" y="0" width="31" height="34"/>
+	<SubTexture name="LeftWalk00003" x="31" y="34" width="31" height="34"/>
+	<SubTexture name="UpWalk00000" x="62" y="34" width="31" height="34"/>
+	<SubTexture name="UpWalk00001" x="93" y="34" width="31" height="34"/>
+	<SubTexture name="UpWalk00002" x="62" y="34" width="31" height="34"/>
+	<SubTexture name="UpWalk00003" x="0" y="68" width="31" height="34"/>
+	<SubTexture name="RightWalk00000" x="31" y="68" width="31" height="34"/>
+	<SubTexture name="RightWalk00001" x="62" y="68" width="31" height="34"/>
+	<SubTexture name="RightWalk00002" x="31" y="68" width="31" height="34"/>
+	<SubTexture name="RightWalk00003" x="93" y="68" width="31" height="34"/>
+</TextureAtlas>

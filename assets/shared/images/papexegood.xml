@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="papexegood.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="idle00000" x="0" y="0" width="222" height="188"/>
+	<SubTexture name="idle00001" x="222" y="0" width="222" height="188"/>
+	<SubTexture name="idle00002" x="444" y="0" width="222" height="188"/>
+	<SubTexture name="idle00003" x="666" y="0" width="222" height="188"/>
+	<SubTexture name="idle00004" x="888" y="0" width="222" height="188"/>
+	<SubTexture name="idle00005" x="0" y="188" width="222" height="188"/>
+	<SubTexture name="left00000" x="222" y="188" width="222" height="188"/>
+	<SubTexture name="left00001" x="444" y="188" width="222" height="188"/>
+	<SubTexture name="down00000" x="666" y="188" width="222" height="188"/>
+	<SubTexture name="down00001" x="888" y="188" width="222" height="188"/>
+	<SubTexture name="up00000" x="0" y="376" width="222" height="188"/>
+	<SubTexture name="up00001" x="222" y="376" width="222" height="188"/>
+	<SubTexture name="right00000" x="444" y="376" width="222" height="188"/>
+	<SubTexture name="right00001" x="666" y="376" width="222" height="188"/>
+	<SubTexture name="shit00000" x="888" y="376" width="222" height="188"/>
+	<SubTexture name="shit00001" x="888" y="376" width="222" height="188"/>
+	<SubTexture name="shit00002" x="888" y="376" width="222" height="188"/>
+	<SubTexture name="shit00003" x="0" y="564" width="222" height="188"/>
+	<SubTexture name="shit00004" x="0" y="564" width="222" height="188"/>
+	<SubTexture name="shit00005" x="222" y="564" width="222" height="188"/>
+	<SubTexture name="shit00006" x="222" y="564" width="222" height="188"/>
+	<SubTexture name="shit00007" x="444" y="564" width="222" height="188"/>
+	<SubTexture name="shit00008" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00009" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00010" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00011" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00012" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00013" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00014" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00015" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00016" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00017" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00018" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00019" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00020" x="666" y="564" width="222" height="188"/>
+	<SubTexture name="shit00021" x="888" y="564" width="222" height="188"/>
+	<SubTexture name="shit00022" x="0" y="752" width="222" height="188"/>
+	<SubTexture name="shit00023" x="222" y="752" width="222" height="188"/>
+	<SubTexture name="shit00024" x="444" y="752" width="222" height="188"/>
+	<SubTexture name="shit00025" x="666" y="752" width="222" height="188"/>
+	<SubTexture name="shit00026" x="444" y="752" width="222" height="188"/>
+	<SubTexture name="shit00027" x="666" y="752" width="222" height="188"/>
+</TextureAtlas>

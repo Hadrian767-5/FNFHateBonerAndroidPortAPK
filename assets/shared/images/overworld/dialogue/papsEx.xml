@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="papsEx.png" width="57" height="570">
+	<SubTexture name="evil" x="0" y="0" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="haha" x="0" y="57" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="just" x="0" y="114" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="kk" x="0" y="171" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="left" x="0" y="228" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="normal" x="0" y="285" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="ok" x="0" y="342" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="right" x="0" y="399" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="smile" x="0" y="456" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+	<SubTexture name="tired" x="0" y="513" width="57" height="57" frameX="-0" frameY="-0" frameWidth="57" frameHeight="57"/>
+</TextureAtlas>

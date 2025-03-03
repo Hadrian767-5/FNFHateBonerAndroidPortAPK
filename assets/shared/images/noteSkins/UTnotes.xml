@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UTnotes.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="staticLEFT00000" x="0" y="0" width="26" height="27"/>
+	<SubTexture name="LHurt00000" x="26" y="0" width="26" height="27"/>
+	<SubTexture name="LHurt00001" x="0" y="0" width="26" height="27"/>
+	<SubTexture name="LHurt00002" x="0" y="0" width="26" height="27"/>
+	<SubTexture name="staticRIGHT00000" x="52" y="0" width="26" height="27"/>
+	<SubTexture name="RHurt00000" x="78" y="0" width="26" height="27"/>
+	<SubTexture name="RHurt00001" x="52" y="0" width="26" height="27"/>
+	<SubTexture name="RHurt00002" x="52" y="0" width="26" height="27"/>
+	<SubTexture name="staticDOWN00000" x="0" y="27" width="26" height="27"/>
+	<SubTexture name="DHurt00000" x="26" y="27" width="26" height="27"/>
+	<SubTexture name="DHurt00001" x="0" y="27" width="26" height="27"/>
+	<SubTexture name="DHurt00002" x="0" y="27" width="26" height="27"/>
+	<SubTexture name="staticUP00000" x="52" y="27" width="26" height="27"/>
+	<SubTexture name="UHurt00000" x="78" y="27" width="26" height="27"/>
+	<SubTexture name="UHurt00001" x="52" y="27" width="26" height="27"/>
+	<SubTexture name="UHurt00002" x="52" y="27" width="26" height="27"/>
+	<SubTexture name="Left00000" x="0" y="54" width="26" height="27"/>
+	<SubTexture name="Right00000" x="26" y="54" width="26" height="27"/>
+	<SubTexture name="Down00000" x="52" y="54" width="26" height="27"/>
+	<SubTexture name="Up00000" x="78" y="54" width="26" height="27"/>
+	<SubTexture name="HITleft00000" x="0" y="81" width="26" height="27"/>
+	<SubTexture name="HITleft00001" x="0" y="54" width="26" height="27"/>
+	<SubTexture name="HITleft00002" x="0" y="54" width="26" height="27"/>
+	<SubTexture name="HITright00000" x="26" y="81" width="26" height="27"/>
+	<SubTexture name="HITright00001" x="26" y="54" width="26" height="27"/>
+	<SubTexture name="HITright00002" x="26" y="54" width="26" height="27"/>
+	<SubTexture name="HITdown00000" x="52" y="81" width="26" height="27"/>
+	<SubTexture name="HITdown00001" x="52" y="54" width="26" height="27"/>
+	<SubTexture name="HITdown00002" x="52" y="54" width="26" height="27"/>
+	<SubTexture name="HITup00000" x="78" y="81" width="26" height="27"/>
+	<SubTexture name="HITup00001" x="78" y="54" width="26" height="27"/>
+	<SubTexture name="HITup00002" x="78" y="54" width="26" height="27"/>
+</TextureAtlas>

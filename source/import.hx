@@ -29,7 +29,6 @@ import mobile.flixel.FlxHitbox;
 import mobile.flixel.FlxVirtualPad;
 import mobile.flixel.input.FlxMobileInputID;
 import mobile.backend.Data;
-import mobile.backend.SUtil;
 
 #if sys
 import sys.*;
